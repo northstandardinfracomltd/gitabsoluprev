@@ -3237,6 +3237,11 @@ img.navlogo {
     margin-bottom: -5px !important;
 }
 
+.nav__logo:hover {
+    transform: scale(1.05);
+    transition-duration: 0.2s;
+}
+
 @media screen and (max-width: 980px) {
   .nav__logo {
     width: 80% !important;
@@ -4909,6 +4914,7 @@ a:hover {
 
 
 .dd-button:hover {
+      box-shadow: 0 0 0px 4px #008eff38;
   display: inline-block;
   white-space: nowrap;
     padding-top: 15px !important;
@@ -4943,10 +4949,17 @@ a:hover {
   border-radius: 0px;
   padding: 0 !important;
   padding-top: 10px !important;
-  margin: 6px 10px 10px -123px !important;
+  margin: 6px 10px 10px -126px !important;
   background-color: #ffffff;
   list-style-type: none;
 }
+
+
+.dd-menu:hover {
+
+      box-shadow: 0 0 0px 4px #008eff38;
+}
+
 
 .dd-input + .dd-menu {
   display: none;
@@ -5204,7 +5217,7 @@ box-shadow: 0 0 0px 4px #fbe81a45;
     cursor: pointer;
     -webkit-user-select: none;
     user-select: none;
-    border-radius: 0px 0px 0px 0px;
+    border-radius: 14px;
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     margin-bottom: 0px !important;
@@ -5220,7 +5233,32 @@ box-shadow: 0 0 0px 4px #fbe81a45;
 
 
 .btnsub000P3-flatty:hover {
-    box-shadow: 0 0 0px 4px #008eff38;
-    transform: scale(1.02);
-    transition-duration: 0.2s;
+    box-shadow: 0 0 0px 4px #fbe81a45;
+
+  
+    width: 90%;
+  
+    position: relative;
+    display: inline-block;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+    font-size: 19px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border-radius: 14px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    margin-bottom: 0px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-style: solid;
+    background-color: #e8373c;
+    color: #fff !important;
+    border: 2px solid #fbe81a !important;
 }
