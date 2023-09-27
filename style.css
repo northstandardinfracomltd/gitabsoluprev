@@ -5019,3 +5019,208 @@ margin-top: 45px;
 
 
 
+
+
+
+
+
+
+.combat000P3ds {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  border-style: solid;
+  margin-bottom: 5px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+  
+  border: 1px solid #dc3136 !important;
+    border-radius: 14px;
+    background: #dc3136;
+  box-shadow: 20px -1px 2.74416px rgb(185 185 185 / 3%), -2px 11px 5.48831px rgb(188 188 188 / 4%), 0px -18px 10.9766px rgb(189 189 189 / 5%), 0px 14px 20.5812px rgb(203 203 203 / 6%), 0px 12px 41.1623px rgb(163 163 163 / 7%), -20px 0px 89.1851px rgb(255 255 255 / 9%);
+}
+
+
+.combat000P3ds:hover {
+  box-shadow: 0 0 0px 4px #008eff38;
+      transform: scale(1.02);
+    transition-duration: 0.2s;
+  cursor: default !important;
+}
+
+
+@media screen and (max-width: 980px) {
+  combat000P3ds:hover {
+  top: 0 !important;
+}
+}
+
+@media screen and (max-width: 680px) {
+	combat000P3ds:hover {
+  top: 0 !important;
+}
+}
+
+
+.entranceZ13000P3pd {
+  font-size: 22px !important;
+    font-family: "Saoecom2fontlight" !important;
+line-height: 1.3 !important;
+  letter-spacing: 0.01em !important;
+  color: #fff !important;
+  margin-bottom: 12px !important;
+  text-align: center !important;
+  margin-right:  3% !important;
+  margin-left: 3% !important;
+  padding-bottom: 35px !important;
+  padding-top: -5px !important;
+  padding-right: 25px !important;
+  padding-left: 25px !important;
+}
+
+
+
+
+
+
+
+
+.items22 {
+  border-radius: 9px;
+  background-clip: border-box;
+  width: 75%;
+  overflow: hidden;
+  padding-left: 0px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: 5px !important;
+  font-family: "Saoecom2fontlight" !important;
+  border: 2px solid #fbe81a !important;
+  margin-bottom: 60px !important;
+  white-space: nowrap;
+  background: #dd363b;
+}
+
+
+.items22:hover {
+box-shadow: 0 0 0px 4px #fbe81a45;
+}
+
+.item22 {
+  display: flex;
+  align-items: center;
+    padding: 18px !important;
+  width: 100% !important;
+  font-family: "Saoecom2fontlight" !important;
+  font-size: 22px !important;
+  border: 0px solid #f4f4f4 !important;
+    color: #fff !important;
+
+  
+  
+  & + & {
+  border: 0px solid #f4f4f4 !important;
+      width: 100% !important;
+  }
+}
+
+
+.illustaze {
+      width: 90% !important;
+  max-width: 350px;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  }
+
+
+
+
+
+.item22:hover {
+  display: flex;
+    padding: 18px !important;
+  align-items: center;
+  padding: 12px;
+  width: 100% !important;
+  font-family: "Saoecom2fontlight" !important;
+  color: #fff !important;
+  font-size: 22px !important;
+  background-color: #eb3b41 !important;
+
+  
+  & + & {
+  border: 0px solid #f4f4f4 !important
+      width: 100% !important;
+
+  }
+}
+
+.item22-link {
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  text-decoration: none;
+  padding: 12px;
+  margin: -12px;
+  font-family: "Saoecom2fontlight" !important;
+  font-size: 22px !important;
+    border: 0px solid #f4f4f4 !important;
+
+
+  
+  &:hover {
+    background: rgba(#eff0f2, 0.5);
+      border: 0px solid #f4f4f4 !important;
+  }
+}
+
+
+
+
+
+
+
+.btnsub000P3-flatty {
+  width: 90%;
+  
+    position: relative;
+    display: inline-block;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+    font-size: 19px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border-radius: 0px 0px 0px 0px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    margin-bottom: 0px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-style: solid;
+    background-color: #dd3036;
+    color: #fff !important;
+    border: 2px solid #fbe81a !important;
+  
+}
+
+
+
+.btnsub000P3-flatty:hover {
+    box-shadow: 0 0 0px 4px #008eff38;
+    transform: scale(1.02);
+    transition-duration: 0.2s;
+}
