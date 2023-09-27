@@ -529,6 +529,7 @@ img.btnsub2-icon {
 
 
 .btnsub000P3rayabsolu:hover {
+      box-shadow: 0 0 0px 4px #008eff38;
     padding-top: 18px !important;
   width: 86% !important;
     padding-bottom: 18px !important;
@@ -1887,9 +1888,9 @@ line-height: 1.1 !important;
 
 .entranceZ1titleabsolu {
   font-size: 55px !important;
-    font-family: "Saoecom2font" !important;
+    font-family: "Saoecom2fontbold" !important;
 line-height: 1.1 !important;
-  color: #b4b3ad !important;
+  color: #211f20 !important;
   
 line-height: 1.1 !important;
   
@@ -1913,9 +1914,9 @@ line-height: 1.1 !important;
 @media screen and (max-width: 980px) {
   .entranceZ1titleabsolu {
   font-size: 55px !important;
-    font-family: "Saoecom2font" !important;
+    font-family: "Saoecom2fontbold" !important;
 line-height: 1.1 !important;
-  color: #b4b3ad !important;
+  color: #211f20 !important;
   
 line-height: 1.1 !important;
   
@@ -1937,9 +1938,9 @@ line-height: 1.1 !important;
 @media screen and (max-width: 680px) {
 	.entranceZ1titleabsolu {
   font-size: 45px !important;
-    font-family: "Saoecom2font" !important;
+    font-family: "Saoecom2fontbold" !important;
 line-height: 1.1 !important;
-  color: #b4b3ad !important;
+  color: #211f20 !important;
   
 line-height: 1.1 !important;
   
