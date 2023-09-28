@@ -376,7 +376,7 @@ img.btnsub2-icon {
     cursor: pointer;
     -webkit-user-select: none;
     width: 210px !important;
-    border-radius: 10px;
+    border-radius: 0px;
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     margin-top: -10px !important;
@@ -391,6 +391,7 @@ img.btnsub2-icon {
 
 
 .btnsub000P3rayRT1:hover {
+  box-shadow: 0 0 0px 4px #008eff38;
     padding-top: 18px !important;
     padding-bottom: 18px !important;
     padding-right: 25px !important;
@@ -403,7 +404,7 @@ img.btnsub2-icon {
     cursor: pointer;
     -webkit-user-select: none;
     width: 210px !important;
-    border-radius: 10px;
+    border-radius: 0px;
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     margin-top: -10px !important;
@@ -433,7 +434,7 @@ img.btnsub2-icon {
     cursor: pointer;
     -webkit-user-select: none;
     width: 210px !important;
-    border-radius: 10px;
+    border-radius: 0px;
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     margin-top: -10px !important;
@@ -448,6 +449,7 @@ img.btnsub2-icon {
 
 
 .btnsub000P3rayRT:hover {
+  box-shadow: 0 0 0px 4px #008eff38;
     padding-top: 18px !important;
     padding-bottom: 18px !important;
     padding-right: 25px !important;
@@ -460,7 +462,7 @@ img.btnsub2-icon {
     cursor: pointer;
     -webkit-user-select: none;
     width: 210px !important;
-    border-radius: 10px;
+    border-radius: 0px;
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     margin-top: -10px !important;
